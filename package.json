@@ -2,9 +2,9 @@
   "name": "njwap-projects-tree-view",
   "displayName": "njwap-tree-view",
   "description": "为 njwap 项目定制的 Tree View 扩展",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "hex-ci",
-  "repository": "https://github.com/hex-ci/njwap-projects-tree-view-vscode",
+  "repository": "https://github.com/ChangbaFE/njwap-projects-tree-view-vscode",
   "license": "MIT",
   "engines": {
     "vscode": "^1.25.0"
